@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "HPa9rrOM4ZkaRsdPeiIoWWFYC8slrWdHm2TjTTMhdMdL11Y92TZWfAhqV6Fvq9CCzky98BOSEsPWJEM1mUoBJQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\FootHorsJeu\\FootHorsJeu\\FootHorsJeu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nekena\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.1\\microsoft.win32.systemevents.9.0.1.nupkg.sha512",
+    "C:\\Users\\Nekena\\.nuget\\packages\\opencvsharp4\\4.8.0.20230708\\opencvsharp4.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\Nekena\\.nuget\\packages\\opencvsharp4.runtime.win\\4.8.0.20230708\\opencvsharp4.runtime.win.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\Nekena\\.nuget\\packages\\system.drawing.common\\9.0.1\\system.drawing.common.9.0.1.nupkg.sha512",
+    "C:\\Users\\Nekena\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Nekena\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "FootHorsJeu dépend de OpenCvSharp4 (>= 4.7.0.20230725), mais OpenCvSharp4 4.7.0.20230725 est introuvable. Une meilleure correspondance approximative de OpenCvSharp4 4.8.0.20230708 a été résolue.",
+      "libraryId": "OpenCvSharp4",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
