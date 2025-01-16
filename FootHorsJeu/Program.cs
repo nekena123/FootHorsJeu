@@ -11,7 +11,7 @@ namespace FootHorsJeu
         static void Main(string[] args)
         {
             // Charger l'image
-            string imagePath = @"D:\GitHub\FootHorsJeu\football.jpg";
+            string imagePath = @"D:\GitHub\FootHorsJeu\foot1.jpg";
             Mat image = Cv2.ImRead(imagePath);
 
             if (image.Empty())
