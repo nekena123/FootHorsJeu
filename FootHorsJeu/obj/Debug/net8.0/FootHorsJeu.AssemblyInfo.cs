@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FootHorsJeu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94ad36face4bdb22afdb13454806ad8a7e50a5c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FootHorsJeu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FootHorsJeu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
